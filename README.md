@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrathamPateljava
+- 👋 Hi, I’m Pratham Patel
 - 👀 I’m interested in Web Developement, Game Developement, Machine Learning
 - 🌱 I’m currently learning Unity and Machine Learning
 - 💞️ I’m looking to collaborate on Any ML/AI project
